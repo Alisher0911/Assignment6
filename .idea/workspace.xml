@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38485b16-2ded-4df7-83d8-a7c7df170a93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cfrEMdAYLn768p4kx11EA11kqd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Application" />
+      <module name="Assignment 7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractFactory.Main" />
+      <module name="Assignment 7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Builder.Main" />
+      <module name="Assignment 7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.Main" />
+      <module name="Assignment 7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38485b16-2ded-4df7-83d8-a7c7df170a93" name="Default Changelist" comment="" />
+      <created>1590930375595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590930375595</updated>
+      <workItem from="1590930376982" duration="400000" />
+      <workItem from="1590931366081" duration="10081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1590943755551">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="579" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.800@0.23.1440.800" timestamp="1590943755551" />
+    <state width="1039" height="198" key="GridCell.Tab.0.bottom" timestamp="1590944389085">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1039" height="198" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1590944389085" />
+    <state width="1039" height="198" key="GridCell.Tab.0.center" timestamp="1590944389085">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1039" height="198" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1590944389085" />
+    <state width="1039" height="198" key="GridCell.Tab.0.left" timestamp="1590944389084">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1039" height="198" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1590944389084" />
+    <state width="1039" height="198" key="GridCell.Tab.0.right" timestamp="1590944389085">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="1039" height="198" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1590944389085" />
+    <state x="254" y="23" key="SettingsEditor" timestamp="1590930418681">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="254" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1590930418681" />
+    <state x="443" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1590931366454">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="443" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1590931366454" />
+  </component>
+</project>
